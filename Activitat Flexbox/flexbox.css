@@ -1,0 +1,21 @@
+.contenidor {
+    height: 100vh; /* pots augmentar el valor */
+    background-color: #6a6af1;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+    align-items: center;
+    }
+    
+    img{
+      background-color: white;
+      border: solid violet 3px;
+      border-radius: 20px;
+      width: 300px;
+      height: 250px;
+      }
+
+      .bici{
+        order:1;
+        flex:2;
+    }

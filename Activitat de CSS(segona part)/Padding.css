@@ -1,0 +1,11 @@
+div{
+  background-color: brown;
+}
+
+img{
+  padding: 20px 15px 5px 10px;
+  background-color:yellow;
+  border-width: 2px;
+  border-color:blue;
+  border-style: solid;
+}
